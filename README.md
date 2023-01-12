@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassem Selim</h1>
-<h3 align="center">A passionate Application Management Engineer from Egypt</h3>
+<h3 align="center">Application Management Engineer from Zagazig ,Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
